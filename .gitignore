@@ -1,5 +1,6 @@
 terraform-502318-1145233c8772.json
 *.tfvars
+*.json
 
 
 *.tfvars
@@ -17,3 +18,7 @@ override.tf.json
 
 .terraformrc
 terraform.rc
+
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
